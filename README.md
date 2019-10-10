@@ -11,8 +11,6 @@ Code mainly based on:
   * https://github.com/soobinseo/Attentive-Neural-Process and a couple modifications based on
   * https://github.com/deepmind/neural-processes
 
-## Comments or questions
-  For comments, questions or suggestions please email me at alet at mit dot edu.
 
 ## License and citation
 This code is provided under MIT license; if you used the code from this repo, consider citing the following papers.
@@ -30,3 +28,4 @@ This code is provided under MIT license; if you used the code from this repo, co
   year={2019}
 }
 ```
+
